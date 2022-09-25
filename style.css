@@ -1138,7 +1138,7 @@ footer .credits{
 
 
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 992px){
   *{
   margin:0;
   padding: 0;
